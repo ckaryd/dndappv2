@@ -1,0 +1,11 @@
+C:\Users\navai\Desktop\Projects\Pair Programming Spare Time\v2DnD App\DndApi\DndApi\bin\Debug\netcoreapp2.0\DndApi.deps.json
+C:\Users\navai\Desktop\Projects\Pair Programming Spare Time\v2DnD App\DndApi\DndApi\bin\Debug\netcoreapp2.0\DndApi.runtimeconfig.json
+C:\Users\navai\Desktop\Projects\Pair Programming Spare Time\v2DnD App\DndApi\DndApi\bin\Debug\netcoreapp2.0\DndApi.runtimeconfig.dev.json
+C:\Users\navai\Desktop\Projects\Pair Programming Spare Time\v2DnD App\DndApi\DndApi\bin\Debug\netcoreapp2.0\DndApi.dll
+C:\Users\navai\Desktop\Projects\Pair Programming Spare Time\v2DnD App\DndApi\DndApi\bin\Debug\netcoreapp2.0\DndApi.pdb
+C:\Users\navai\Desktop\Projects\Pair Programming Spare Time\v2DnD App\DndApi\DndApi\obj\Debug\netcoreapp2.0\DndApi.csprojResolveAssemblyReference.cache
+C:\Users\navai\Desktop\Projects\Pair Programming Spare Time\v2DnD App\DndApi\DndApi\obj\Debug\netcoreapp2.0\DndApi.csproj.CoreCompileInputs.cache
+C:\Users\navai\Desktop\Projects\Pair Programming Spare Time\v2DnD App\DndApi\DndApi\obj\Debug\netcoreapp2.0\DndApi.AssemblyInfoInputs.cache
+C:\Users\navai\Desktop\Projects\Pair Programming Spare Time\v2DnD App\DndApi\DndApi\obj\Debug\netcoreapp2.0\DndApi.AssemblyInfo.cs
+C:\Users\navai\Desktop\Projects\Pair Programming Spare Time\v2DnD App\DndApi\DndApi\obj\Debug\netcoreapp2.0\DndApi.dll
+C:\Users\navai\Desktop\Projects\Pair Programming Spare Time\v2DnD App\DndApi\DndApi\obj\Debug\netcoreapp2.0\DndApi.pdb
